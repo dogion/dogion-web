@@ -1,3 +1,3 @@
-const Container = ({ children }) => (
-  <div id='container'>{children}</div>
-)
+const Container = ({ children }) => <div id="container">{children}</div>
+
+export default Container
